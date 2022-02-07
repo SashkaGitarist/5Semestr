@@ -1,0 +1,46 @@
+{
+  "Sanya": {
+    "user_type": "guest",
+    "objects": {}
+  },
+  "root": {
+    "user_type": "root",
+    "objects": {
+      "Mbluuka.txt": [
+        1,
+        1,
+        1
+      ]
+    }
+  },
+  "mbluuka": {
+    "user_type": "user",
+    "objects": {
+      "mb1.txt": [
+        1,
+        1,
+        1
+      ],
+      "test.txt": [
+        1,
+        1,
+        1
+      ],
+      "delte.txt": [
+        1,
+        1,
+        1
+      ],
+      "a.txt": [
+        1,
+        1,
+        1
+      ],
+      "b.txt": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

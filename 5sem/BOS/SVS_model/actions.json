@@ -1,0 +1,16 @@
+{
+  "Semen": {
+    "commands": [],
+    "objects": [],
+    "containers": []
+  },
+  "Batya": {
+    "commands": [
+      "Write command cc"
+    ],
+    "objects": [],
+    "containers": [
+      "Create conteiner er with type top_secret"
+    ]
+  }
+}

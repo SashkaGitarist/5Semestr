@@ -1,0 +1,12 @@
+<cd>'='<cd item='item' artist='artist' instock='count>0'>
+<item>'='""
+<title>'='<title>'artist' 'title' - 'year'</title>
+<artist>'='""
+<country>'='""
+<company>'='""
+<price>'='<price>'price' 'currency'</price>
+<currency>'='""
+<year>'='""
+<count>'='""
+</cd>'='</cd>
+

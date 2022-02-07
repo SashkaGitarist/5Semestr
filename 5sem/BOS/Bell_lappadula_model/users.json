@@ -1,0 +1,15 @@
+{
+  "users": {
+    "Valery": 2,
+    "root": 3,
+    "Sanya": 2
+  },
+  "objects": {
+    "Valery_3.txt": 3,
+    "Valery_1.txt": 2,
+    "Sanya_3.txt": 3,
+    "Sanya_.txt": 3,
+    "roottest.txt": 3,
+    "tt.txt": 2
+  }
+}

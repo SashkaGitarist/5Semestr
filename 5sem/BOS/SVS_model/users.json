@@ -1,0 +1,21 @@
+{
+  "users": {
+    "Semen": "G",
+    "Vova": "L",
+    "mbluuka": "L",
+    "Dima": "S",
+    "Sanechka": "R",
+    "Batya": "G",
+    "Vanya": "R"
+  },
+  "objects": {
+    "mb1.txt": "secret",
+    "mb2.txt": "secret",
+    "mbb.txt": "secret",
+    "bb.txt": "top_secret",
+    "bb1.txt": "top_secret",
+    "mbd.txt": "top_secret",
+    "dima.txt": "official_use",
+    "Sanya.txt": "public"
+  }
+}

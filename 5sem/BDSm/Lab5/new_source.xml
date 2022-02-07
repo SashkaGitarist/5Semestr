@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+
+<cd item="53725" artist="Набиев Руслан" instock="true">
+<title>"Набиев Руслан" "По ресторанам. Лучшие Хиты" - "2008"</title>
+<price>"250" "руб"</price>
+</cd>
+
+<cd item="53726" artist="Сектор Газа" instock="false">
+<title>"Сектор Газа" "Избранные Хиты" - "2021"</title>
+<price>"250" "руб"</price>
+</cd>
+
+</catalog>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+
+<cd item="53725" artist="Набиев Руслан" instock="true">
+<title>"Набиев Руслан" "По ресторанам. Лучшие Хиты" - "2008"</title>
+<price>"250" "руб"</price>
+</cd>
+
+<cd item="53726" artist="Сектор Газа" instock="false">
+<title>"Сектор Газа" "Избранные Хиты" - "2021"</title>
+<price>"250" "руб"</price>
+</cd>
+
+</catalog>
